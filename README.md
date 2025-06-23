@@ -1,5 +1,5 @@
 
-# Frisbee Model Readme
+# Modelagem Frisbee 
 
 Este projeto explora a análise matemática e física da dinâmica do Frisbee, abordando o Princípio de Bernoulli, a Inércia Giroscópica e a Aerodinâmica para modelar e simular o voo do Frisbee em ambiente idealizado.
 
